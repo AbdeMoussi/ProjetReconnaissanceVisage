@@ -17,3 +17,4 @@ cv2.waitKey()
 ```
 Et ça donne ça : 
 
+![Exercice3duTP](CaptureExo1.png)
