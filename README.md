@@ -18,3 +18,5 @@ cv2.waitKey()
 Et ça donne ça : 
 
 ![Exercice3duTP](CaptureExo1.png)
+Comme on peut le voir, la cascade de Haar a bien reconnu mon visage même si la qualité de l'image laisse a désirer...
+
